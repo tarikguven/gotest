@@ -1,6 +1,12 @@
 package main
 
+import (
+	"fmt"
+	"github.com/tarikguven/gopak/hellomod"
+)
+
 func main() {
-	//fmt.Println(parser.GetFile("sdsd"))
+
+	fmt.Println(hellomod.GetFile("sdsd"))
 	//	Tarik()
 }
