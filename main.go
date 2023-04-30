@@ -6,6 +6,7 @@ import (
 )
 
 func main() {
+	//trtert
 
 	fmt.Println(hellomod.GetFile("sdsd"))
 	//	Tarik()
