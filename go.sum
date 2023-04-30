@@ -1,2 +1,6 @@
 github.com/tarikguven/gopak v0.0.0-20230427192245-bfa6575ed19a h1:lFJd3uYSo5O1F/XQ8kuBbl7gdsG6ojRhr4Y1fueZcxY=
 github.com/tarikguven/gopak v0.0.0-20230427192245-bfa6575ed19a/go.mod h1:o5ryJNb2BQUkYzk36gudXjba15Vu2oSBBxvIs4mB24Y=
+github.com/tarikguven/gopak v0.0.0-20230428062125-6784c052ff0e h1:sy/+DYtryqPlwtgOYuQLeG1lTwjiAEaoP7DoonrSp7U=
+github.com/tarikguven/gopak v0.0.0-20230428062125-6784c052ff0e/go.mod h1:o5ryJNb2BQUkYzk36gudXjba15Vu2oSBBxvIs4mB24Y=
+github.com/tarikguven/gopak v0.0.0-20230430080229-8e73ef0bf8f5 h1:Ddq4xP2fDzYYKbYl08us5jpeFh6rcYT48fYe7iaSDzs=
+github.com/tarikguven/gopak v0.0.0-20230430080229-8e73ef0bf8f5/go.mod h1:o5ryJNb2BQUkYzk36gudXjba15Vu2oSBBxvIs4mB24Y=
