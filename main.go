@@ -7,7 +7,7 @@ import (
 
 func main() {
 	//trtert
-
+	fmt.Println("abcccc")
 	fmt.Println(hellomod.GetFile("sdsd"))
 	//	Tarik()
 }
