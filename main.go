@@ -8,6 +8,6 @@ import (
 func main() {
 	//trtert
 	fmt.Println("abcccczzzzz")
-	fmt.Println(hellomod.GetFile("sdsd", "1", "2"))
+	fmt.Println(hellomod.GetFile("sdsd", "1", "2", ""))
 	//	Tarik()
 }
